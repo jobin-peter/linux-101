@@ -25,10 +25,10 @@ Most popular Operating Systems are Linux Operating System, Windows Operating Sys
 ## 2. History of Operating System and its types.
 
     1.Batch Operating System
-    <details><summary>1.Batch Operating System</summary>
+<details><summary>1.Batch Operating System</summary>
     
     In Batch Operating System, the job preparations are fully manual as there is no direct interaction between user and computer. User will prepare Jobs and save into punch card or magnetic tape and will hand it over to computer operator. The Operator will sort the jobs and create batches like B1,B2 with similar types of jobs and provides to CPU to execute the batch jobs one by one. Output will be provided to the user by Operator after the execution.
-    </details>
+</details>
     
     2.Time-Sharing Operating System
     3.Embedded Operating System
