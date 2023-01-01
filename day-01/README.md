@@ -83,7 +83,8 @@ Most popular Operating Systems are Linux Operating System, Windows Operating Sys
 Kernel is the heart of an Operating system which enables the communication between software and the hardware. Kernel is the innermost part of an OS and shell is the outermost part of an OS which is attached to the terminal where user interacts. 
 
  There are two types of kernel:
-        a. Monolithic:
+       
+       a. Monolithic:
 
             Monolithic kernel is a single code or block and provides all required services offered by an OS
 
