@@ -68,7 +68,7 @@ Most popular Operating Systems are Linux Operating System, Windows Operating Sys
 
 # 4. Functions and Features of Operating System.
 
-    Functions of an OS may include managing processes,memory,files,I/O system and devices, security etc. 
+ Functions of an OS may include managing processes,memory,files,I/O system and devices, security etc. 
 
        - Process Management
        - Memory Management
