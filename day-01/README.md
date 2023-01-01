@@ -80,9 +80,9 @@ Most popular Operating Systems are Linux Operating System, Windows Operating Sys
        - Job accounting 
 # 5. What is a Kernel and its Types. 
 
-    Kernel is the heart of an Operating system which enables the communication between software and the hardware. Kernel is the innermost part of an OS and shell is the outermost part of an OS which is attached to the terminal where user interacts. 
+Kernel is the heart of an Operating system which enables the communication between software and the hardware. Kernel is the innermost part of an OS and shell is the outermost part of an OS which is attached to the terminal where user interacts. 
 
-    There are two types of kernel:
+ There are two types of kernel:
         a. Monolithic:
 
             Monolithic kernel is a single code or block and provides all required services offered by an OS
@@ -93,11 +93,11 @@ Most popular Operating Systems are Linux Operating System, Windows Operating Sys
 
 # 6. Difference between Firmware and an Operating System.
 
-    Firmware:
+Firmware:
 
-    Firmware is a program that is embedded on a chip in a hardware device which can only control a specific device. Mostly Firmwares will be encoded by the manufacture of IC so that it cannot be changed and it will be stored in non-volatile memory 
+Firmware is a program that is embedded on a chip in a hardware device which can only control a specific device. Mostly Firmwares will be encoded by the manufacture of IC so that it cannot be changed and it will be stored in non-volatile memory 
 
-    OS:
+OS:
 
-    OS can be installed by the user and can be changed. It has to be stored on the hard drive
+OS can be installed by the user and can be changed. It has to be stored on the hard drive
 
