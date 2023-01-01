@@ -1,4 +1,4 @@
-#Introdution to Operating Systems:
+# Introdution to Operating Systems:
 
 An Operating System (OS) is a software that acts as an interface between computer hardware components and the user. All other programs on a computer requires atleast  an operating system installed as a prerequisite. Applications like Web Browsers, Webex, VSCode, Games, etc., need some environment to run and perform its tasks.
 
