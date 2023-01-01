@@ -5,7 +5,7 @@ An Operating System (OS) is a software that acts as an interface between compute
 In this article, we will dive into below mentioned topics based on Operating System. 
 
     1. What is an Operating System ? 
-    2. History of Operating System and its types.
+    2. Operating System types.
     4. Functions and Features of Operating System.
     5. What is a Kernel and its Types. 
     6. Difference between Firmware and an Operating System.
@@ -32,10 +32,11 @@ Most popular Operating Systems are Linux Operating System, Windows Operating Sys
     6.Distributed Operating System
     7.Multiprocessing Operating System
     8.Real-Time Operating System
+
 ---
 
 
-    # 1.Batch Operating System
+    ## 1.Batch Operating System
 
     In Batch Operating System, the job preparations are fully manual as there is no direct interaction between user and computer. User will prepare Jobs and save into punch card or magnetic tape and will hand it over to computer operator. The Operator will sort the jobs and create batches like B1,B2 with similar types of jobs and provides to CPU to execute the batch jobs one by one. Output will be provided to the user by Operator after the execution. 
 
