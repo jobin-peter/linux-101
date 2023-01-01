@@ -22,43 +22,27 @@ The Main purpose of an Operating System is to enable applications (softwares) to
 
 Most popular Operating Systems are Linux Operating System, Windows Operating System, etc. In Modern Era, almost all devices which we use today functions with the help of Operating systems.
 
-## 2. History of Operating System and its types.
+## 2. Operating System types.
 
-    1.Batch Operating System
+
 <details><summary>1.Batch Operating System</summary>
     
     In Batch Operating System, the job preparations are fully manual as there is no direct interaction between user and computer. User will prepare Jobs and save into punch card or magnetic tape and will hand it over to computer operator. The Operator will sort the jobs and create batches like B1,B2 with similar types of jobs and provides to CPU to execute the batch jobs one by one. Output will be provided to the user by Operator after the execution.
 </details>
     
-    2.Time-Sharing Operating System
-    3.Embedded Operating System
-    4.Multiprogramming Operating System
-    5.Network Operating System
-    6.Distributed Operating System
-    7.Multiprocessing Operating System
-    8.Real-Time Operating System
-
-
-
-    1.Batch Operating System
-
-    In Batch Operating System, the job preparations are fully manual as there is no direct interaction between user and computer. User will prepare Jobs and save into punch card or magnetic tape and will hand it over to computer operator. The Operator will sort the jobs and create batches like B1,B2 with similar types of jobs and provides to CPU to execute the batch jobs one by one. Output will be provided to the user by Operator after the execution. 
-
-    2.Time-Sharing Operating System
-
+<details><summary>2.Time-Sharing Operating System</summary>
     It is a logical extension of multiprogramming through which users can run multiple tasks concurrently. CPU time will be shared betweeen many user processes. 
+</details>
 
-    3.Embedded Operating System
+<details><summary>3.Embedded Operating System</summary>
+    Embedded Operating System are designed to work on dedicated devices like ATMs, IOT Devices etc.  
+</details>
 
-    Embedded Operating System are designed to work on dedicated devices like ATMs, IOT Devices etc. 
-
-    4.Multiprogramming Operating System
-
-    Multiprogramming Operating System refers to executing two or more processes simultaneously to execute the processes one after anotherby the same computer system. It improves the use of system resources thereby increasing throughput.
-
-    5.Network Operating System
-
-    These kind of operating systems will be used in a network devices like routers, switches or firewall to handle data, applications and other network resoures. These are of two types :
+<details><summary>4.Multiprogramming Operating System</summary>
+   Multiprogramming Operating System refers to executing two or more processes simultaneously to execute the processes one after anotherby the same computer system. It improves the use of system resources thereby increasing throughput.  
+</details>
+<details><summary>5.Network Operating System</summary>
+     These kind of operating systems will be used in a network devices like routers, switches or firewall to handle data, applications and other network resoures. These are of two types :
         a. Peer-to-peer network operating system: 
         
         The type of network operating system allows users to share files, resources between two or more computer machines using a LAN.
@@ -66,18 +50,21 @@ Most popular Operating Systems are Linux Operating System, Windows Operating Sys
         b.Client-Server network operating system: 
         
         This type of OS allows the users to access resources, functions, and applications through a common server or center hub of the resources. The client workstation can access all resources that exist in the central hub of the network. Multiple clients can access and share different types of the resource over the network from different locations.
+</details>
 
-    6.Distributed Operating System
+<details><summary>6.Distributed Operating System</summary>
+     These type of OS are used where we have multiple independet CPU or processor communicates with each other through physically seperate computational nodes. This is an extension of Network OS. 
+</details>
 
-    These type of OS are used where we have multiple independet CPU or processor communicates with each other through physically seperate computational nodes. This is an extension of Network OS. 
+<details><summary>7.Multiprocessing Operating System</summary>
+      Multiprocessing OS will be having two or more than CPU in a single system which will be having increased system efficiency. In a multiprocessor system, they share computer bus,clock,memory, I/O devices for the concurrent execution of process and resource management in the CPU. 
+</details>
 
-    7.Multiprocessing Operating System
+<details><summary>8.Real-Time Operating System</summary>
+     These are an important type of operating system used to provide services and data processing resources for applications in which the time interval required to process & respond to input/output should be so small without any delay real-time system. Real-time OS are mainly ised in weapon systems,robots,scientific research etc. 
+</details>
 
-    Multiprocessing OS will be having two or more than CPU in a single system which will be having increased system efficiency. In a multiprocessor system, they share computer bus,clock,memory, I/O devices for the concurrent execution of process and resource management in the CPU. 
 
-   8.Real-Time Operating System
-
-    These are an important type of operating system used to provide services and data processing resources for applications in which the time interval required to process & respond to input/output should be so small without any delay real-time system. Real-time OS are mainly ised in weapon systems,robots,scientific research etc. 
 
 # 4. Functions and Features of Operating System.
 
