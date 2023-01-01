@@ -11,3 +11,4 @@ In this article, we will dive into below mentioned topics based on Operating Sys
     5. What is a Kernel and its Types. 
     6. Difference between Firmware and an Operating System.
     7. Difference between 32-Bit and 64-Bit Operating System. 
+------
